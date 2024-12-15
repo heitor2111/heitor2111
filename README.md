@@ -40,7 +40,7 @@
 ### 👷 Some Projects I'm Working On:
 
 - 💻 Developing an enhanced gallery app
-- 🔧 Creating an automated deployment API for Power BI
+- 🐉 Creating an Pokémon TCG Pocket Tracker
 - 🎮 Reworking my video download automation script for Clone Hero with a Node.js and Electron interface
 
 ---

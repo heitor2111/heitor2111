@@ -8,7 +8,7 @@
 
 ### Currently I am:
 
-- 💼 Working as a Development Analyst and Data Analyst on Alfa Engenharia
+- 💼 Working as a Development and Data Analyst on Alfa Engenharia
 - 🎓 Studying Internet Systems on UniCesumar
 
 ---
@@ -25,6 +25,7 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
   <a href="https://adonisjs.com/" target="_blank"><img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" /></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
   <a href="https://www.electronjs.org/" target="_blank"><img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
@@ -40,7 +41,6 @@
 ### 👷 Some Projects I'm Working On:
 
 - 💻 Developing an enhanced gallery app
-- 🐉 Creating an Pokémon TCG Pocket Tracker
 - 🎮 Reworking my video download automation script for Clone Hero with a Node.js and Electron interface
 
 ---
